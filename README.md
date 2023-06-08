@@ -1,4 +1,6 @@
-# torrent-api
+# torrent-api 
+Welcome to 1337x, NyaaSi, YTS, PirateBay, Torlock, EzTvio, TorrentGalaxy, Rarbg, Zooqle, KickAss, Bitsearch, Glodls, MagnetDL, Limetorrent, TorrentFunk, TorrentProject and Ettv Central Unoffical API.
+
 Browse Torrents from different providers. Find list below of Providers.
 [Original Author](https://github.com/Ryuk-me/Torrents-Api)
 # Endpoint 
